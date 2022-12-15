@@ -31,7 +31,7 @@
     <ul>
       <li> :cloud:&nbsp;&nbsp;I’m currently working at <a href="https://github.com/kumojin">Kumojin</a> </li>
       <li> 🎂&nbsp;&nbsp;About 10 years of experience</li>
-      <li> 💅🏽&nbsp;&nbsp;&nbsp;Frond-end developper</li>
+      <li> 💅🏽&nbsp;&nbsp;&nbsp;Frond-end web developper</li>
       <li> 👾&nbsp;&nbsp;Open source contributor</li>
       <li> ⚡&nbsp;&nbsp;Princess Angular | Kumojin Dundee Awards</li>
     </ul>
