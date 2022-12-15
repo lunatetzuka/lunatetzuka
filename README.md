@@ -33,7 +33,7 @@
       <li> 🎂&nbsp;&nbsp;About 10 years of experience</li>
       <li> 💅🏽&nbsp;&nbsp;&nbsp;Frond-end developper</li>
       <li> 👾&nbsp;&nbsp;Open source contributor</li>
-      <li> ⚡&nbsp;&nbsp;Fun fact: ... No fun fact about me, I'm not funny</li>
+      <li> ⚡&nbsp;&nbsp;Princess Angular | Kumojin Dundee Awards</li>
     </ul>
     <br>
     <div align="center">
