@@ -34,6 +34,7 @@
       <li> 💅🏽&nbsp;&nbsp;&nbsp;Frond-end web developper</li>
       <li> 👾&nbsp;&nbsp;Open source contributor</li>
       <li> ⚡&nbsp;&nbsp;Princess Angular | Kumojin Dundee Awards</li>
+      <li> 🏆&nbsp;&nbsp;Angular Badge #812740226 - Delivered by <a href="https://github.com/zyrthofar">Zyrthofar</a></li>
     </ul>
     <br>
     <div align="center">
